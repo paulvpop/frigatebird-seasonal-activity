@@ -1,0 +1,2 @@
+# frigatebird-seasonal-activity
+Statistical tests for the seasonality of frigatebirds occurring in South Asia. These statistical tests supplement the certain findings of the paper "Status and identification of the Christmas Island Frigatebird Fregata andrewsi in South Asia" (https://indianbirds.in/wp-content/uploads/2025/09/IB_21_4_JamesETAL_ChristmasIslandFrigatebird.pdf) published in Indian BIRDS.
