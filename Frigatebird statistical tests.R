@@ -1,4 +1,4 @@
-##Chi-squared goodness-of-fit test for Christmas Island Frigatebird####
+##Chi-squared goodness-of-fit test for Christmas Island Frigatebird (CIFR)####
 # Step 1: Create a matrix from the data
 cifr <- matrix(c(4, 15, 3), nrow = 1)
 #where 4, 15, and 3 corresponds to pre-monsoon, monsoon, and post-monsoon
